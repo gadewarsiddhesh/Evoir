@@ -1,2 +1,1 @@
-# Evoir
-An E-commerce website build using react.
+Glass morphism photo gallery
